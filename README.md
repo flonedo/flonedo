@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 Hello there, I'm flonedo.
-
 I'm a senior back-end software engineer based in Italy.
-I like functional programming and my favourite programming language is ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white).
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 
